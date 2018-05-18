@@ -6,7 +6,5 @@ public class Servico {
 
 	private String nome;
 	private Double valorUnitario;
-	
 
-	
 }
